@@ -16,3 +16,5 @@ openvino/
 privategpt/
 ollama/
 .vscode/
+
+my-certificates.pem
